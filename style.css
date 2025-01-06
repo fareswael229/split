@@ -1,0 +1,43 @@
+body{
+        background-image: url('./background.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+    }
+    h1{
+        color: white;
+    }
+    #split{
+        width: 250px;
+    }
+    p{
+        color: white;
+    }
+    h2{
+        color: white;
+    }
+    #kevin{
+        width: 500px;
+    }
+    #barry{
+        width: 500px;
+    }
+    #dennis{
+        width: 500px;
+    }
+    #ms{
+        width: 500px;
+    }
+    #hedwig{
+        width: 500px;
+    }
+    #jade{
+        width: 500px;
+    }
+    #orwell{
+        width: 500px;
+    }
+    #beast{
+        width: 500px;
+    }
